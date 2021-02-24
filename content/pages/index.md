@@ -139,7 +139,7 @@ sections:
         image_align: left
         image_has_padding: true
         actions:
-          - label: lorem-ipsum
+          - label: Just do it!
             url: lorem-ipsum
             style: primary
             has_icon: false
