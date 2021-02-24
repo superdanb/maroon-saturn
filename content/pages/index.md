@@ -158,7 +158,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    has_border: true
+    has_border: false
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
