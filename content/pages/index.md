@@ -127,6 +127,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: right
       - title: What not to do
         title_align: left
         content: >-
