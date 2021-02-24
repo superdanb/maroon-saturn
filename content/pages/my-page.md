@@ -1,7 +1,7 @@
 ---
-title: About
+title: My page
 seo:
-  title: About
+  title: My page
   description: This is the about us page
   extra:
     - name: 'og:type'
