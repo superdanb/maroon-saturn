@@ -161,7 +161,7 @@ sections:
         image_align: left
         image_has_padding: true
         actions:
-          - label: Found it!
+          - label: Found it 2!
             url: lorem-ipsum
             style: primary
             has_icon: false
