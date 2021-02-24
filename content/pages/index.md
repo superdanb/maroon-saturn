@@ -160,6 +160,16 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        actions:
+          - label: Found it!
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Your Progress
         title_align: left
         content: >-
