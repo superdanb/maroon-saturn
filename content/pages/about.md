@@ -28,10 +28,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
 
-![](/images/team.jpg)
+![](/images/because-who-doesnt-love-over-the-air-software-updates.jpg)
+
+
 
 ## Work Life Balance
 
@@ -46,7 +47,5 @@ With App Land, we strive to make it clear and easy to follow a healthy routine o
 **We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*.
 
 ![](/images/team-2.jpg)
-
-
 
 Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
